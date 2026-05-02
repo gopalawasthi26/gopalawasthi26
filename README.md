@@ -90,10 +90,12 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopalawasthi26&layout=compact&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopalawasthi26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420&hide=html,css" 
+    alt="Top Languages"
+  />
 </p>
 
----
 
 ## 🌐 Connect With Me
 
