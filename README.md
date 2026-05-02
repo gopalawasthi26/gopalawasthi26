@@ -1,132 +1,117 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Gopal Awasthi | GitHub Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0; padding: 0;
-      background: #f4f4f9;
-      color: #333;
-    }
-    header {
-      text-align: center;
-      padding: 2rem;
-      background: linear-gradient(135deg, #0e75b6, #1c1c1c);
-      color: white;
-    }
-    header h1 { margin: 0; font-size: 2.5rem; }
-    header h3 { margin: 0.5rem 0; font-weight: 400; }
-    section {
-      max-width: 1000px;
-      margin: auto;
-      padding: 2rem;
-    }
-    .skills, .projects, .contact {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 1rem;
-    }
-    .card {
-      flex: 1 1 250px;
-      background: white;
-      padding: 1rem;
-      border-radius: 8px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    }
-    .card h4 { margin-top: 0; color: #0e75b6; }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background: #0e75b6;
-      color: white;
-    }
-    a { color: #0e75b6; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    img.responsive {
-      max-width: 100%;
-      height: auto;
-    }
-    @media (max-width: 600px) {
-      header h1 { font-size: 2rem; }
-      header h3 { font-size: 1rem; }
-    }
-  </style>
-</head>
-<body>
+<h1 align="center">Hi 👋, I'm Gopal Awasthi</h1>
+<h3 align="center">🚀 Software Engineer | Java Developer | Problem Solver</h3>
 
-  <header>
-    <h1>Hi 👋, I'm Gopal Awasthi</h1>
-    <h3>Aspiring Software Engineer | Web Developer | Data Analyst</h3>
-    <p>📍 Uttar Pradesh | 📧 gopalawasthiji@gmail.com</p>
-    <p>
-      <img src="https://komarev.com/ghpvc/?username=gopalawasthi26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" class="responsive"/>
-    </p>
-    <p>
-      <img src="https://github-profile-trophy.vercel.app/?username=gopalawasthi26" alt="GitHub Trophies" class="responsive"/>
-    </p>
-  </header>
+<p align="center">
+🎓 B.Tech CSE (2022–2026) | 📍 Uttar Pradesh <br>
+💼 Programmer Analyst @ Cognizant
+</p>
 
-  <section>
-    <h2>🚀 Core Skills</h2>
-    <div class="skills">
-      <div class="card"><h4>Programming</h4><p>Java, Python, C, C++, SQL</p></div>
-      <div class="card"><h4>Web Tech</h4><p>HTML, CSS, JavaScript, REST APIs, Streamlit</p></div>
-      <div class="card"><h4>CS Fundamentals</h4><p>DSA, OOPS, DBMS, OS, Networks</p></div>
-    </div>
-  </section>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=gopalawasthi26&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/badge/Focus-Java%20%7C%20SQL-blue"/>
+<img src="https://img.shields.io/badge/Learning-System%20Design-orange"/>
+</p>
 
-  <section>
-    <h2>💻 Projects</h2>
-    <div class="projects">
-      <div class="card">
-        <h4>AI-powered ATS Resume Analyzer</h4>
-        <p>Built with Python, Streamlit, and Google Gemini AI. Generates ATS score, keyword analysis, and improvement suggestions. Deployed on Render.</p>
-        <a href="https://github.com/gopalawasthi26" target="_blank">View Project</a>
-      </div>
-    </div>
-  </section>
+---
 
-  <section>
-    <h2>📊 GitHub Stats</h2>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gopalawasthi26&show_icons=true&locale=en&layout=compact" alt="Top Languages" class="responsive"/>
-    </p>
-  </section>
+## 👨‍💻 About Me
 
-  <section>
-    <h2>🛠️ Languages & Tools</h2>
-    <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-    </p>
-  </section>
+- 🚀 Aspiring Software Engineer with strong foundation in **DSA & Backend Development**
+- 💻 Experienced in **Java, Python, SQL & Web Technologies**
+- 🔥 Completed **75 Days Coding Streak**
+- 🧠 Passionate about solving real-world problems
+- 🎯 Currently focused on **Java + SQL + System Design**
+- 💼 Selected as **Programmer Analyst at Cognizant**
 
-  <section>
-    <h2>🌐 Connect with Me</h2>
-    <div class="contact">
-      <div class="card"><a href="https://linkedin.com/in/gopal-awasthi-4b3936263" target="_blank">LinkedIn</a></div>
-      <div class="card"><a href="https://github.com/gopalawasthi26" target="_blank">GitHub</a></div>
-      <div class="card"><a href="https://www.hackerrank.com/gopalawasthiji" target="_blank">HackerRank</a></div>
-      <div class="card"><a href="https://leetcode.com/gopalawasthi_" target="_blank">LeetCode</a></div>
-      <div class="card"><a href="https://www.youtube.com/c/rudragopalpandit" target="_blank">YouTube</a></div>
-      <div class="card"><a href="https://instagram.com/talkwithawashti" target="_blank">Instagram</a></div>
-    </div>
-  </section>
+---
 
-  <footer>
-    <p>© 2026 Gopal Awasthi | Built with ❤️ and Code</p>
-  </footer>
+## 🚀 Tech Stack
 
-</body>
-</html>
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,sql"/>
+</p>
+
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
+
+### 🧠 Core CS
+- Data Structures & Algorithms  
+- DBMS  
+- Operating Systems  
+- Computer Networks  
+- OOPS  
+
+---
+
+## 💼 Experience
+
+### 💻 Programmer Analyst — Cognizant  
+📅 Mar 2026 – Present  
+
+- Worked on **Java & Python based development**
+- Collaborated with team to solve real-world problems  
+- Demonstrated **leadership in Hackathon**  
+- Improved team productivity & coding engagement  
+
+---
+
+## 💻 Projects
+
+### 🔹 AI-Powered ATS Resume Analyzer
+- 📄 Upload & analyze resume against job description  
+- 📊 ATS score (0–100%) generation  
+- 🔍 Keyword & skill gap analysis  
+- 🤖 Built using **Python, Streamlit & Gemini AI**  
+- 📈 Tested on 50+ resumes (~82% accuracy)
+
+---
+
+## 🏆 Achievements
+
+- 🔥 75 Days Coding Streak  
+- 💼 Selected at Cognizant  
+- 🚀 Hackathon Leadership Experience  
+- 📈 Continuous Skill Improvement Mindset  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gopalawasthi26&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gopalawasthi26&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopalawasthi26&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/gopal-awasthi-4b3936263">LinkedIn</a> |
+<a href="https://github.com/gopalawasthi26">GitHub</a> |
+<a href="https://leetcode.com/gopalawasthi_">LeetCode</a> |
+<a href="https://www.hackerrank.com/gopalawasthiji">HackerRank</a>
+</p>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+🔥 "Consistency beats talent when talent doesn’t work hard." 🚀
+</p>
+
+---
+
+<p align="center">⭐ From <b>Gopal Awasthi</b> | Building Future 🚀</p>
