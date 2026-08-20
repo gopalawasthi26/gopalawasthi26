@@ -242,12 +242,6 @@
 <a id="achievements"></a>
 ## 🏆 Achievements
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gopalawasthi26/gopalawasthi26/main/github-metrics.svg" alt="achievements"/>
-
-</div>
-
 - 🔥 75 Days Coding Streak
 - 💼 Selected at Cognizant
 - 🚀 Hackathon Leadership Experience
@@ -259,10 +253,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=gopalawasthi26&hide_border=true&background=0d1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" alt="streak stats"/>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/gopalawasthi26/gopalawasthi26/main/github-metrics.svg" alt="github metrics"/>
 
