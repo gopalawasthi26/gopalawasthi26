@@ -25,6 +25,10 @@
 
 <br/>
 
+<table>
+<tr>
+<td width="60%">
+
 ```yaml
 $ whoami --verbose
 ------------------------------------------------------------
@@ -38,6 +42,13 @@ $ whoami --verbose
   Status     : [ONLINE] shipping code, breaking bugs, fixing them
 ------------------------------------------------------------
 ```
+
+</td>
+<td width="40%" align="center">
+<img src="profile.png" width="220"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -73,7 +84,7 @@ const gopal = {
 | 🧩 **Ask me about** | Java, DSA, SQL, Backend APIs, System Design |
 | 🌱 **Currently learning** | System Design, Advanced SQL |
 | 🛠️ **Currently building** | AI-Powered ATS Resume Analyzer |
-| 💬 **Reach me on** | LinkedIn (link below) |
+| 💬 **Reach me on** | Email / LinkedIn / Instagram (links below) |
 
 <br/>
 
@@ -86,7 +97,7 @@ const gopal = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,sql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql&theme=dark"/>
 
 **Web Development**
 
@@ -142,14 +153,6 @@ const gopal = {
 <img src="https://img.shields.io/badge/Gemini%20AI-000000?style=for-the-badge&logo=googlegemini&logoColor=39ff14"/>
 
 </details>
-
-<!--
-  Agar tumne ye project GitHub pe upload kiya hai, to REPO_NAME ko apne actual repo
-  name se replace karke ye block yahan (details ke andar) add kar do —
-  isse ek live auto-updating repo card dikhega:
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gopalawasthi26&repo=REPO_NAME&theme=dark&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&border_color=39ff14"/>
--->
 
 <br/>
 
@@ -220,7 +223,7 @@ const gopal = {
 
 <img src="https://raw.githubusercontent.com/gopalawasthi26/gopalawasthi26/output/github-contribution-grid-snake-dark.svg"/>
 
-<sub>⚙️ Animated automatically every day via GitHub Actions — setup steps neeche diye hain.</sub>
+<sub>⚙️ Animated automatically every day via GitHub Actions.</sub>
 
 </div>
 
@@ -233,8 +236,14 @@ const gopal = {
 
 <div align="center">
 
+<a href="mailto:gopalawasthiji@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=39ff14"/>
+</a>
 <a href="https://linkedin.com/in/gopal-awasthi-4b3936263">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39ff14"/>
+</a>
+<a href="https://instagram.com/gopal.awasthi26_">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=39ff14"/>
 </a>
 <a href="https://github.com/gopalawasthi26">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39ff14"/>
