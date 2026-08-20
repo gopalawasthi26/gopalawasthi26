@@ -44,7 +44,7 @@
 
 </td>
 <td width="40%" align="center">
-<img src="https://raw.githubusercontent.com/gopalawasthi26/gopalawasthi26/main/profile.png" width="220" style="border-radius: 50%;" alt="Gopal Awasthi"/>
+<img src="https://raw.githubusercontent.com/gopalawasthi26/gopalawasthi26/main/WhatsApp%20Image%202025-03-20%20at%2013.06.29_0ea2048c.jpg" width="220" style="border-radius: 50%;" alt="Gopal Awasthi"/>
 </td>
 </tr>
 </table>
@@ -186,7 +186,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=gopalawasthi26&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&border_color=39ff14" alt="github stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gopalawasthi26&hide_border=true&background=0d1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=gopalawasthi26&hide_border=true&background=0d1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" alt="streak stats"/>
 
 <br/>
 
