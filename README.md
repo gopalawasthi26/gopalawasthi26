@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f3d1e,100:00ff41&height=220&section=header&text=GOPAL%20AWASTHI&fontSize=48&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=39FF14" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f3d1e,100:00ff41&height=220&section=header&text=GOPAL%20AWASTHI&fontSize=48&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20C%23%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=39FF14" width="100%" alt="header banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Programmer+Analyst+%40+Cognizant;Java+%7C+Python+%7C+SQL+Developer;DSA+%2B+System+Design+Enthusiast;75-Day+Coding+Streak+%F0%9F%94%A5;Building+things+that+actually+work." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Programmer+Analyst+(C%23)+%40+Cognizant;Java+%7C+Python+%7C+SQL+Developer;AI+%2F+ML+%2B+RAG+Pipelines+Enthusiast;75-Day+Coding+Streak+%F0%9F%94%A5;Building+things+that+actually+work." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,11 +34,11 @@
 | | |
 |---|---|
 | **Name** | Gopal Awasthi |
-| **Role** | Programmer Analyst @ Cognizant |
-| **Education** | B.Tech CSE (2022 - 2026) |
+| **Role** | Programmer Analyst (C#) @ Cognizant |
+| **Education** | B.Tech CSE, GLA University (2022 - 2026) |
 | **Location** | Uttar Pradesh, India |
 | **Timezone** | IST (UTC +5:30) |
-| **Stack** | Java · Python · SQL · DSA · System Design |
+| **Stack** | Java · Python · C# · SQL · React.js · FastAPI |
 | **Uptime** | 75 days coding streak & counting 🔥 |
 | **Status** | 🟢 Online — shipping code, breaking bugs, fixing them |
 
@@ -57,19 +57,19 @@
 | | |
 |---|---|
 | **Role** | Aspiring Software Engineer |
-| **Strengths** | DSA · Backend Development · Problem Solving |
-| **Languages** | Java · Python · SQL · C · C++ |
-| **Current Focus** | Java · SQL · System Design |
-| **Current Job** | Programmer Analyst @ Cognizant |
+| **Strengths** | DSA · Backend Development · AI-Powered Applications |
+| **Languages** | Java · Python · C# · C · C++ · SQL |
+| **Current Focus** | C# (Cognizant role) · LLMs · RAG Pipelines |
+| **Current Job** | Programmer Analyst (C#) @ Cognizant |
 | **Coding Streak** | 75 days 🔥 |
 | **Mindset** | _"Consistency beats talent when talent doesn't work hard."_ |
 
 - 🚀 Aspiring Software Engineer with a strong foundation in **DSA & Backend Development**
-- 💻 Experienced in **Java, Python, SQL & Web Technologies**
+- 💻 Experienced in **Java, Python, C#, SQL & Web Technologies**
+- 🤖 Builds AI-powered apps using **LLMs, RAG pipelines, FastAPI & React.js**
 - 🔥 Completed a **75-day coding streak**
 - 🧠 Passionate about solving real-world problems
-- 🎯 Currently deep-diving into **Java + SQL + System Design**
-- 💼 Selected as **Programmer Analyst at Cognizant**
+- 💼 Selected as **Programmer Analyst (C#) at Cognizant**
 
 <br/>
 
@@ -78,9 +78,9 @@
 | | |
 |---|---|
 | 🕒 **Timezone** | IST (UTC +5:30) |
-| 🧩 **Ask me about** | Java, DSA, SQL, Backend APIs, System Design |
-| 🌱 **Currently learning** | System Design, Advanced SQL |
-| 🛠️ **Currently building** | AI-Powered ATS Resume Analyzer |
+| 🧩 **Ask me about** | Java, Python, C#, DSA, SQL, RAG Pipelines |
+| 🌱 **Currently learning** | C# / .NET, System Design |
+| 🛠️ **Currently building** | AI-Powered ATS Resume Analyzer, DocMind AI |
 | 💬 **Reach me on** | Email / LinkedIn / Instagram (links below) |
 
 <br/>
@@ -94,13 +94,21 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql&theme=dark" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,cs,cpp,c,mysql&theme=dark" alt="languages"/>
 
-**Web Development**
+**Web & AI Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="web dev tools"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,fastapi,git,github,vscode&theme=dark" alt="web dev tools"/>
 
 </div>
+
+**AI / ML Tools**
+
+<img src="https://img.shields.io/badge/Google%20Gemini%20AI-000000?style=flat-square&logo=googlegemini&logoColor=39ff14" alt="Gemini AI"/>
+<img src="https://img.shields.io/badge/Groq%20Llama3-000000?style=flat-square&logo=meta&logoColor=39ff14" alt="Groq Llama3"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=39ff14" alt="LangChain"/>
+<img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logoColor=39ff14" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-000000?style=flat-square&logoColor=39ff14" alt="RAG Pipelines"/>
 
 **Core CS Foundations**
 
@@ -116,12 +124,12 @@
 ## 💼 Experience
 
 <details open>
-<summary><b>🖥️ Programmer Analyst — Cognizant</b> &nbsp;|&nbsp; <i>Mar 2026 – Present</i></summary>
+<summary><b>🖥️ Programmer Analyst (C#) — Cognizant</b> &nbsp;|&nbsp; <i>Mar 2026 – Present</i></summary>
 <br/>
 
-- ✅ Worked on Java & Python based development
+- ✅ Selected through campus recruitment as a **Programmer Analyst working on C#**
 - ✅ Collaborated with cross-functional teams to solve real-world problems
-- ✅ Demonstrated leadership in a Hackathon
+- ✅ Demonstrated leadership as **Point of Responsibility (POR)** during a Hackathon
 - ✅ Improved team productivity & coding engagement
 
 </details>
@@ -132,6 +140,60 @@
 ## 🚀 Featured Projects
 
 <details open>
+<summary><b>🔹 Rudra Neural Nexus — Multi-Agent AI System</b></summary>
+<br/>
+
+> An autonomous multi-agent AI system where 3 specialized agents collaborate: one researches the web, one summarizes content, one drafts professional emails.
+
+- ⚡ Integrated **Groq's Llama3-70B** for high-speed inference
+- 🖥️ Designed a hacker-style terminal UI for real-time interaction
+- 🚀 Live at [rudra-neural-nexus-multi-agent-ai.onrender.com](https://rudra-neural-nexus-multi-agent-ai.onrender.com)
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39ff14" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39ff14" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Groq%20Llama3--70B-000000?style=for-the-badge&logoColor=39ff14" alt="Groq Llama3"/>
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🔹 AI Code Reviewer</b></summary>
+<br/>
+
+> AI-powered code review tool using Google Gemini 2.0 that analyzes code in real time, detects bugs, and suggests improvements.
+
+- ⚛️ Clean **React.js** frontend with live AI feedback
+- ☁️ Deployed on Vercel for public access
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39ff14" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39ff14" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Google%20Gemini%202.0-000000?style=for-the-badge&logo=googlegemini&logoColor=39ff14" alt="Gemini 2.0"/>
+<img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=39ff14" alt="React.js"/>
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🔹 DocMind AI — RAG Document Q&A System</b></summary>
+<br/>
+
+> Full RAG pipeline: PDF chunking → embeddings → ChromaDB vector retrieval → LLM-generated context-aware answers.
+
+- ⏱️ Supports real-time latency tracking
+- 🚀 Live at [gopal-ai-docu-analyis.vercel.app](https://gopal-ai-docu-analyis.vercel.app)
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=39ff14" alt="LangChain"/>
+<img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logoColor=39ff14" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=39ff14" alt="React.js"/>
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39ff14" alt="FastAPI"/>
+
+</details>
+
+<br/>
+
+<details open>
 <summary><b>🔹 AI-Powered ATS Resume Analyzer</b></summary>
 <br/>
 
@@ -140,7 +202,6 @@
 - 📄 Upload & analyze resumes against a job description
 - 📊 Generates an ATS score (0–100%)
 - 🔍 Keyword & skill gap analysis
-- 🤖 Built using **Python, Streamlit & Gemini AI**
 - 📈 Tested on 50+ resumes with **~82% accuracy**
 
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39ff14" alt="Python"/>
@@ -151,13 +212,27 @@
 
 <br/>
 
+<details>
+<summary><b>🔹 Hotel Management System</b></summary>
+<br/>
+
+> Browser-based hotel management solution with full CRUD operations for bookings, room management, and guest tracking.
+
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39ff14" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=39ff14" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=39ff14" alt="CSS"/>
+
+</details>
+
+<br/>
+
 <a id="working-on"></a>
 ## ✅ Currently Working On
 
 - [x] Strengthening DSA fundamentals
-- [x] Shipping Java + Python backend projects
+- [x] Shipping AI-powered Python & Java backend projects
+- [ ] Getting hands-on with **C# / .NET** for my Cognizant role
 - [ ] Mastering System Design concepts
-- [ ] Advanced SQL query optimization
 - [ ] Contributing to open-source
 
 <br/>
@@ -169,7 +244,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gopalawasthi26&theme=matrix&no-frame=true&margin-w=10&margin-h=10&column=4" alt="trophies"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=gopalawasthi26&theme=matrix&no-frame=true&margin-w=10&margin-h=10&column=4" alt="trophies"/>
 
 </div>
 
