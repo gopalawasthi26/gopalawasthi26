@@ -244,7 +244,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=gopalawasthi26&theme=matrix&no-frame=true&margin-w=10&margin-h=10&column=4" alt="trophies"/>
+<img src="https://raw.githubusercontent.com/gopalawasthi26/gopalawasthi26/main/github-metrics.svg" alt="achievements"/>
 
 </div>
 
@@ -260,12 +260,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gopalawasthi26&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&border_color=39ff14" alt="github stats"/>
 <img src="https://streak-stats.demolab.com/?user=gopalawasthi26&hide_border=true&background=0d1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" alt="streak stats"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopalawasthi26&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" alt="top languages"/>
+<img src="https://raw.githubusercontent.com/gopalawasthi26/gopalawasthi26/main/github-metrics.svg" alt="github metrics"/>
 
 <br/>
 
